@@ -1,4 +1,4 @@
-import Starter from './tutorial/02-useEffect/starter/05-cleanup-function.jsx'
+import Starter from './tutorial/06-forms/starter/02-user-challenge'
 
 function App() {
   return (
